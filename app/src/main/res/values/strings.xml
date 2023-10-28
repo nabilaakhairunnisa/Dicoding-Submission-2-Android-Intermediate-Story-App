@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Dicoding Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Aplikasi paling tepat untuk kamu yang suka berbagi dan membaca cerita inspiratif tentang pengalaman belajar kamu.</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="not_valid_data">DATA YANG DIMASUKKAN TIDAK VALID</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk membaca dan menulis cerita?</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="deskription">Tulis cerita kamu di sini</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="detail">Detail Story</string>
+    <string name="add_story">Add Story</string>
+    <string name="tittle">Judul</string>
+    <string name="desc">Deskripsi</string>
+    <string name="insert_name">Masukan nama</string>
+    <string name="title_activity_maps">Stories Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Coba lagi</string>
+    <string name="password_error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="add_story_with_location">Add story with location</string>
+    <string name="story_image">story_image</string>
+</resources>

@@ -29,6 +29,16 @@ Story App is an Android application that allows users to share stories with phot
 
 ---
 
+## 🔧 How to Install
+
+1. Download the APK file from this link: [story-app.apk](https://github.com/nabilaakhairunnisa/Dicoding-Submission-2-Android-Intermediate-Story-App/raw/refs/heads/main/story-app-v1.apk).  
+2. Open the downloaded file on your Android device.  
+3. If prompted, allow installation from **Unknown Sources** (you can enable this in **Settings > Security > Install unknown apps**).  
+4. Tap **Install** and wait until the process is complete.  
+5. Once installed, open the app and start using it.
+
+---
+
 ## 🚀 Usage
 
 1. Register or log in with your account.
